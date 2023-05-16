@@ -11,6 +11,7 @@ My personal website serves as a portfolio to showcase my projects, skills, and e
 - Django: A Python web framework used for building the backend of the website.
 - JavaScript: Used for adding interactive elements and functionality to the frontend.
 - HTML: The markup language used for structuring the content of the website.
+- CSS: Styles sheet.
 
 
 ## License
